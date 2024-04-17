@@ -1,5 +1,5 @@
 <img
-  src="ICD_Github_Banner.jpg"
+  src="/profile/ICD_Github_Banner.jpg"
   alt="Banner"
   align="center"
   style="display: inline-block; margin: 0 auto; max-height: 100px">
